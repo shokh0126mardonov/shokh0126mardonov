@@ -1,103 +1,139 @@
-# 👋 Hi, I'm Shohjahon Mardonov
+# ⚡ Shohjahon Mardonov
 
-🚀 **Python Backend Developer | System Architect | API Engineer**
-
-I build **scalable, high-performance backend systems** with a strong focus on clean architecture, maintainability, and real-world production reliability.
+🚀 **Python Backend Engineer | System Design Enthusiast | API Architect**
 
 ---
 
-## 🧠 About Me
+## 🧠 Engineering Mindset
 
-* 💻 Backend developer specializing in **Python ecosystem**
-* 🧩 Experienced in designing **monolithic and microservices architectures**
-* ⚙️ Passionate about **high-load systems**, **performance optimization**, and **secure APIs**
-* 🗄️ Strong background in **database design, indexing, and query optimization**
-* 🔍 I don’t just write code — I design **systems that survive production**
+I don't just build endpoints.
+I design **systems that scale, fail gracefully, and evolve over time**.
 
----
-
-## 🛠 Tech Stack
-
-### 🚀 Backend
-
-* Python
-* Django / Django REST Framework
-* FastAPI
-
-### 🧠 Architecture & Design
-
-* Monolith & Microservices Architecture
-* Clean Architecture / Layered Design
-* SOLID, DRY, KISS principles
-* Design Patterns (Factory, Repository, Service Layer)
-
-### 🗄 Databases
-
-* PostgreSQL (advanced usage, indexing, query tuning)
-* SQL optimization & normalization
-* Transaction management & concurrency handling
-
-### 🌐 API & Integration
-
-* RESTful API design
-* Async processing (Celery / background jobs)
-* Third-party integrations
-* API security & authentication (JWT, OAuth concepts)
-
-### ⚙️ Dev & Infra
-
-* Git / GitHub workflows
-* Linux (Ubuntu)
-* Docker (basic to intermediate)
-* Deployment mindset (production-ready thinking)
+* 🧩 I think in **abstractions, not just implementations**
+* ⚙️ I optimize for **performance, maintainability, and reliability**
+* 🔒 I design with **security and failure scenarios in mind**
+* 📈 I build systems that are ready for **real traffic, not just demo data**
 
 ---
 
-## 🔥 What I Focus On
+## 🛠 Core Stack
 
-* Writing **clean, maintainable, and testable code**
-* Designing **scalable backend systems**
-* Building **robust APIs** that handle real traffic
-* Eliminating bottlenecks before they happen
-* Thinking in **systems, not scripts**
+```yaml
+language:
+  - Python
 
----
+frameworks:
+  - Django
+  - Django REST Framework
+  - FastAPI
 
-## 📌 Current Interests
+architecture:
+  - Monolith (modular)
+  - Microservices
+  - Clean Architecture
 
-* Advanced system design (distributed systems)
-* Performance tuning & profiling
-* Event-driven architectures
-* Async Python at scale
+database:
+  - PostgreSQL
+  - Query Optimization
+  - Indexing & Execution Plans
 
----
+api:
+  - REST
+  - JWT Authentication
+  - Rate Limiting
+  - Async Processing
 
-## 📈 GitHub Philosophy
-
-> “Code is not just for solving problems — it's for building systems that don’t break under pressure.”
-
-* Every project I write aims to be:
-
-  * Production-ready
-  * Scalable
-  * Cleanly structured
-  * Easy to extend
-
----
-
-## 📫 Contact
-
-* Telegram: https://t.me/shokhjahon_0126
-* Instagram: https://www.instagram.com/_shokhjahon__571
+infra:
+  - Docker
+  - Linux (Ubuntu)
+  - Git & CI/CD mindset
+```
 
 ---
 
-## ⚡ Final Note
+## 🧱 Architectural Approach
 
-If you're looking for someone who:
+```text
+Request → View → Service Layer → Domain Logic → Repository → Database
+```
 
-* thinks beyond CRUD,
-* understands system-level trade-offs,
-* and writes code that survives real-world нагрузка...
+✔ Separation of concerns
+✔ Testability
+✔ Replaceable components
+✔ Scalable structure
 
-👉 You're in the right place.
+---
+
+## 🔥 Highlighted Projects
+
+### 📌 Scalable API System
+
+* Designed high-load API with **rate limiting + async tasks**
+* Optimized DB queries reducing latency by **~40%**
+* Implemented **service layer pattern**
+
+### 📌 Audit Logging System
+
+* Built reusable audit system for tracking model changes
+* Works across **APIView / ViewSet / custom services**
+* Ensures **data traceability + debugging power**
+
+### 📌 Telegram Bot Platform
+
+* Multi-handler bot architecture
+* Handles:
+
+  * text / media / commands
+  * scalable message processing
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🧪 Code Principles
+
+* SOLID is not optional — it's default
+* DRY — but not at the cost of readability
+* KISS — but not oversimplified
+* Explicit > Implicit
+* Readability > Cleverness
+
+---
+
+## ⚙️ What Makes Me Different
+
+* I think in **trade-offs**, not just solutions
+* I care about **latency, throughput, and bottlenecks**
+* I design for **future changes, not just current requirements**
+* I build systems that **other developers can understand and extend**
+
+---
+
+## 📈 Currently Exploring
+
+* Event-driven systems (Kafka / RabbitMQ concepts)
+* Distributed systems design
+* Async Python deep dive
+* High-load architecture patterns
+
+---
+
+## 📫 Reach Me
+
+* Telegram → https://t.me/shokhjahon_0126
+* Instagram → https://www.instagram.com/_shokhjahon__571
+
+---
+
+## ⚡ Philosophy
+
+> "Good code works. Great systems survive."
+
+---
